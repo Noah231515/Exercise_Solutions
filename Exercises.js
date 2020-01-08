@@ -1,4 +1,4 @@
-//Noah Hall Exercises 1/8/20
+//Noah_H Exercises 1/8/20
 
 //Modified Insertion Sort to check for parity
 function Exercise1(arr){
